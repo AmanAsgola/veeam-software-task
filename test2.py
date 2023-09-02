@@ -3,7 +3,6 @@ import time
 import logging
 import argparse
 import shutil
-import contextlib
 
 # Parse the command line arguments
 parser = argparse.ArgumentParser(description="A program that synchronizes two folders: source and replica.")
